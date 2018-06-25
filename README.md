@@ -1,5 +1,5 @@
 # Pixel Art Maker Project
 
-link to my app on github pages ()
+Link to my app on github pages (https://marckdon98.github.io/project-pixel-art-maker/)
 
 From the starter files for the final project [Udacity project Pixel Art Maker](https://github.com/udacity/project-pixel-art-maker-starter)
